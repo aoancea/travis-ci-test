@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travis.CI.Web", "Travis.CI.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB0B3B44-CCFA-498B-A6A0-C3F07712DCE3}"
 	ProjectSection(SolutionItems) = preProject
-		.travis.yml = .travis.yml
+		..\.travis.yml = ..\.travis.yml
 	EndProjectSection
 EndProject
 Global
