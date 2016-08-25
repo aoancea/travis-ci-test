@@ -1,4 +1,4 @@
 language: csharp
-solution: ./src/Travis.CI.Web.sln
+solution: Travis.CI.Web.sln
 install:
-  - nuget restore ./src/Travis.CI.Web.sln
+  - nuget restore Travis.CI.Web.sln
